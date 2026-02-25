@@ -11,7 +11,7 @@ witness employed for each issuance.
 
 Open Independent ID is intended to be used with the
 [Open Person Matching](/PortobelloAuth/open-person-matching) and
-[Digital Authorization Documents](/PortobelloAuth/digital-authorization-documents)
+[Independent Identity Endorsement](/PortobelloAuth/independent-id-endorsements)
 specifications to create a digital Identity, Authentication, Authorization, and
 Privacy framework that allows individuals control of their own identity and
 accounts, including delegated, limited access by human and automated agents,
