@@ -10,8 +10,8 @@ witness employed for each issuance.
 ## Companion Specifications
 
 Open Independent ID is intended to be used with the
-[Open Person Matching](/PortobelloAuth/open-person-matching) and
-[Independent Identity Endorsements](/PortobelloAuth/independent-id-endorsements)
+[Open Person Matching](https://github.com/PortobelloAuth/open-person-matching) and
+[Independent Identity Endorsements](https://github.com/PortobelloAuth/independent-id-endorsements)
 specifications to create a digital Identity, Authentication, Authorization, and
 Privacy framework that allows individuals control of their own identity and
 accounts, including delegated, limited access by human and automated agents,
